@@ -1,0 +1,5 @@
+{
+  "name": "NexusHR",
+  "description": "A production-quality, full-stack simulated HRMS application featuring employee and team management, many-to-many assignments, and comprehensive audit logging.",
+  "requestFramePermissions": []
+}
